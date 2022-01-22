@@ -50,7 +50,7 @@ about_profile_image: images/LinkedIn_DP1.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Bin Choi, I'm a junior backend developer and a third-year student at Yale-NUS College. I am currently studying Computer Science at Aalto University in Finland as an exchange student.
 
-  I enjoy solving algorithm and statistical problems and am deeply fascinated by the intersection of Medicine and Computer Science. I have worked with a range of different languages and frameworks and I am always looking for opportunities to work with something new. The tools that I currently have the most experience working with are: <mark>Python</mark>, <mark>R</mark>, <mark>Scala</mark>, <mark>OCaml</mark>, <mark>Bash/Linux</mark>, and <mark>git</mark>.
+  I enjoy solving algorithms and statistics problems and am deeply fascinated by the intersection of Medicine and Computer Science. I have worked with a range of different languages and frameworks and I am always looking for opportunities to work with something new. The tools that I currently have the most experience working with are: <mark>Python</mark>, <mark>R</mark>, <mark>Scala</mark>, <mark>OCaml</mark>, <mark>Bash/Linux</mark>, and <mark>git</mark>.
 
 content:
   - title: Projects # Title for the section
