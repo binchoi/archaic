@@ -48,29 +48,33 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/LinkedIn_DP1.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Bin Choi, I'm a junior backend developer and a third-year student at Yale-NUS College. I am currently studying Computer Science at Aalto University in Finland as an exchange student.
+  Hi, my name is Bin Choi. I'm a junior backend developer and a third-year student at Yale-NUS College. I am currently studying Computer Science at Aalto University in Finland as an exchange student.
 
-  I enjoy solving algorithms and statistics problems and am deeply fascinated by the intersection of Medicine and Computer Science. I have worked with a range of different languages and frameworks and I am always looking for opportunities to work with something new. The tools that I currently have the most experience working with are: <mark>Python</mark>, <mark>R</mark>, <mark>Scala</mark>, <mark>OCaml</mark>, <mark>Bash/Linux</mark>, and <mark>git</mark>.
+  I enjoy logical problem solving and am deeply fascinated by the intersection of Medicine and Computer Science. Working with <mark>Spring Boot</mark> has taught me the power of a well-structured MVC framework and test-driven development. I have worked with a range of different languages and frameworks and am always looking for opportunities to work with something new. The languages that I currently have the most experience working with are: <mark>Java</mark>, <mark>Python</mark>, <mark>Scala</mark>, <mark>R</mark>, <mark>OCaml</mark>, and <mark>Bash/Linux</mark>.
+
+  The idea of being able to create new services that positively impact the lives of countless people is the driving force behind my back-end development journey. 
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Project 1
-        link: github.com/binchoi
+        title: Habit Racer
+        link: github.com/binchoi/habit-racer
         # link_text: Project Website
         additional_links:
-          - title:  binchoi/binchoi.github.io
+          - title:  binchoi/habit-racer
             icon: fab fa-github
-            url: github.com/binchoi/binchoi.github.io
+            url: github.com/binchoi/habit-racer
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Transforming habit building into an exciting competition against friends and families.
         description: | # this will include new lines to allow paragraphs
-          (TO BE CHANGED) I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Building new habits is difficult. Whether it be exercising, solving leetcode problems, reading, or all three (if you're like me), it is incredibly easy to let a budding habit die. I started this project in hopes of transforming habit building into an exciting, multi-player game, like beer pong. With the ability to set wagers for each race, Habit Racer will not only keep you accountable but invested. 
+          
+          I learned many new tools and skills in the process of building this project. These include <mark>Spring Boot 2</mark>, <mark>AWS</mark>, <mark>MariaDB</mark>, <mark>JUnit</mark>, and <mark>Java</mark>. I also experienced the importance of test-driven development, software architecture, and software quality management. 
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
