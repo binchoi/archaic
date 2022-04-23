@@ -31,7 +31,7 @@ linkedin_username: binchoi
 
 # Additional icon links
 additional_links:
-- title: algo.practice
+- title: DSnAlgoBlog
   icon: fas fa-globe
   url: https://binchoi.github.io/leetcode
 # - title: another link
@@ -50,9 +50,9 @@ about_profile_image: images/LinkedIn_DP1.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Bin Choi. I'm a junior backend developer and a third-year student at Yale-NUS College. I am currently studying Computer Science at Aalto University in Finland as an exchange student.
 
-  I enjoy logical problem solving and am deeply fascinated by the intersection of Medicine and Computer Science. Working with <mark>Spring Boot</mark> has taught me the power of a well-structured MVC framework and test-driven development. I have worked with a range of different languages and frameworks and am always looking for opportunities to work with something new. The languages that I currently have the most experience working with are: <mark>Java</mark>, <mark>Python</mark>, <mark>Scala</mark>, <mark>R</mark>, <mark>OCaml</mark>, and <mark>Bash/Linux</mark>.
+  I enjoy logical problem solving and am deeply fascinated by the intersection of Medicine and Computer Science. Working with <mark>Spring Boot</mark> has taught me the importance of a well-structured MVC framework and Test-Driven Development. I have worked with a range of different languages and frameworks and am always looking for opportunities to work with something new. The languages that I currently have the most experience working with are: <mark>Java</mark>, <mark>Python</mark>, <mark>Scala</mark>, <mark>R</mark>, <mark>OCaml</mark>, and <mark>Bash/Linux</mark>.
 
-  The idea of being able to create new services that positively impact the lives of countless people is the driving force behind my back-end development journey. 
+  The idea of being able to create new services that positively impact countless lives is the driving force behind my back-end development journey. 
 
 content:
   - title: Projects # Title for the section
@@ -72,23 +72,23 @@ content:
         quote: >
           Transforming habit building into an exciting competition against friends and families.
         description: | # this will include new lines to allow paragraphs
-          Building new habits is difficult. Whether it be exercising, solving leetcode problems, reading, or all three (if you're like me), it is incredibly easy to let a budding habit die. I started this project in hopes of transforming habit building into an exciting, multi-player game, like beer pong. With the ability to set wagers for each race, Habit Racer will not only keep you accountable but invested. 
+          Building new habits is difficult. Whether it be exercise or reading, it is incredibly easy for a budding habit to die. I started this project in hopes of transforming habit building into an exciting, interactive experience. With the ability to challenge a friend or family to a habit race with real wagers at stake, Habit Racer will not only keep you accountable but invested. 
           
-          I learned many new tools and skills in the process of building this project. These include <mark>Spring Boot 2</mark>, <mark>AWS</mark>, <mark>MariaDB</mark>, <mark>JUnit</mark>, and <mark>Java</mark>. I also experienced the importance of test-driven development, software architecture, and software quality management. 
+          I encountered many new tools and developed new and existing skills in the process of building this project. These include <mark>Spring Boot</mark>, <mark>AWS</mark> (i.e. EC2, S3, CodeDeploy), <mark>MariaDB</mark>, <mark>JUnit</mark>, <mark>TravisCI</mark>, <mark>Spring Data JPA</mark>, and <mark>Java</mark>. I also experienced the importance of Test-Driven Development, RESTful APIs, and software quality management. 
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Computational Biology
+        # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Research Assistant
+        caption: December 2020 - August 2021
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          I contributed to the improvement of accuracy in cancer studies *basically*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            Computer algorithms are heavily relied upon in cancer research, especially in in-vivo studies (e.g. Patient Derived Xenografts). Unfortunately, the state-of-the-art algorithms and tools don't work as well as they should. My research focused on analyzing the performance of these popular tools and developing an original pipeline that implements an Expectation-Maximization algorithm from an Empirical Bayesian perspective with <mark>Python</mark>, <mark>R</mark>, and <mark>Bash</mark>. 
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -100,17 +100,17 @@ content:
         quote: >
           Established in 2011 as a collaboration between Yale University and the National University of Singapore, Yale-NUS College is the first liberal arts college in Singapore. With an admit rate ranging from 3% to 7%, Yale-NUS College is an intimate liberal arts college dedicated to a community of learning. Founded by two great universities, In Asia, for the world.
         description: | # this will include new lines to allow paragraphs
-          (TO BE EDITED) During my time at Yale-NUS, I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a ...
+          I am currently in my second semester of my third year. This summer, I plan to take a Leave of Absence to fulfill my national service obligation in South Korea. 
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in  software engineering and data science some of my other interests and hobbies include:
-      - Saxophone
-      - Tennis
-      - 3D Art
+      - I am South Korean but lived overseas for most of my life (from age 6)
+      - I lived in Dubai, Abu Dhabi, and Qatar from age 6 to 18. 
+      - Then, I flew to Singapore for college 😄
+      - I play the Saxophone 🎷
+      - I am learning Tennis 🎾
+      - And I enjoy 3D Art  (the 3 year old inside me takes over)
 
 # Footer
 footer_show_references: true
