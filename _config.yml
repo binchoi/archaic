@@ -35,7 +35,7 @@ additional_links:
   icon: fas fa-globe
   url: https://binchoi.github.io/leetcode
 - title: HabitRacer
-  icon: fa-solid fa-flag-checkered
+  icon: fas fa-flag-checkered
   url: https://habitracer.com
 
 # Google Analytics and Tag Manager
