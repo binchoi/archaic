@@ -86,7 +86,7 @@ content:
         sub_title: Research Assistant
         caption: December 2020 - August 2021
         quote: >
-          I *basically* contributed to the improvement of cancer research (joke)
+          My small contribution to the improvement of cancer research
         description: | # this will include new lines to allow paragraphs
             Computer algorithms are heavily relied upon in cancer research, especially in in-vivo studies (e.g. Patient Derived Xenografts). Unfortunately, the state-of-the-art algorithms and tools don't work as well as they should. My research focused on analyzing the performance of these popular tools and developing an original pipeline that implements an Expectation-Maximization algorithm from an Empirical Bayesian perspective with <mark>Python</mark>, <mark>R</mark>, and <mark>Bash</mark>. 
 
