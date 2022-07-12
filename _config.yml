@@ -33,7 +33,7 @@ linkedin_username: binchoi
 additional_links:
 - title: DSABlog
   icon: fas fa-globe
-  url: https://binchoi.github.io/leetcode
+  url: https://binchoi.github.io/dsa-blog
 - title: HabitRacer
   icon: fas fa-flag-checkered
   url: https://habitracer.com
